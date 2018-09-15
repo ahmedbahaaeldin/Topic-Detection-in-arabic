@@ -1,9 +1,13 @@
 # Topic-Detection-in-arabic
 Bidirectional LSTM model with conv1D , Bidirectional LSTM model only and conv1D only , 3 models for testing the most efficient way for topic detection.
 
-#Bidirectional LSTMs model with conv1D
+# Bidirectional-LSTMs-model-with-conv1D
 LSTMs neural networks has excelled in the process in sequence understanding. 
-#Steps to make it work.
+
+# First-Section-in-the-Code
+For people who will upload the dataset and ara2vec model on their google drive. It is a fastter way to work on google colab linked with the drive.
+
+# Steps-to-make-it-work.
 1-You will find it step by step guidance in the Notebook in the rep.
 
 2-You can download the dataset from the following link. https://drive.google.com/open?id=1n4XTmPzygP6AvO6ekST12G-zEDH9Wqyu
